@@ -3,5 +3,5 @@
 serviceAccount: "cicd-sa@storied-core-424404-t8.iam.gserviceaccount.com"
 
 options:
-  logging: CLOUD_LOGGING_ONLY
-  logsBucket: gs://logsbuild
+  logging: "CLOUD_LOGGING_ONLY"
+  logsBucket: "gs://logsbuild"
