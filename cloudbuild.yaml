@@ -1,0 +1,6 @@
+
+
+serviceAccount: "serviceaccount@developer.gserviceaccount.com"
+
+options:
+  logging: CLOUD_LOGGING_ONLY
